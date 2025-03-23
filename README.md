@@ -1,3 +1,2 @@
 https://roadmap.sh/projects/accordion
-
-[link = null rn lmao]
+this page should be on github pages soon
